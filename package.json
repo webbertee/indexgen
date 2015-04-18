@@ -1,0 +1,22 @@
+{
+  "name": "indexgen",
+  "version": "1.0.0",
+  "description": "Generates index.js files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:webbertee/indexgen.git"
+  },
+  "keywords": [
+    "index.js"
+  ],
+  "author": "webbertee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webbertee/indexgen/issues"
+  },
+  "homepage": "https://github.com/webbertee/indexgen"
+}
